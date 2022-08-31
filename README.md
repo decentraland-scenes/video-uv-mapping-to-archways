@@ -1,7 +1,7 @@
 # Video UV Mapping to Archways
 
 
-![](images/thumbnail.png)
+![](images/arches-uv-thumbnail.png)
 
 This scene demonstrates how to UV map a video texture onto many many planes
 
